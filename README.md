@@ -7,7 +7,7 @@ Proven track record of delivering scalable data science products and AI models, 
 </h7>
 <hr>
 <p>
-🧑🏻‍💻 I currenlty work as a Machine Learning Engineer with a telecommunication industry. My expertise incldue building ML model, development of ML Platform (including automative feature selection, Hyperparameter tuning), Model monitoring, ML Operatoins etc. 
+🧑🏻‍💻 I currenlty work as a Machine Learning Engineer with a telecommunication industry. My expertise incldue building ML model, development of ML Platform (including auto feature selection, auto hyperparameter tuning), Model monitoring, ML Operations etc. 
     
 👯 I’m looking to collaborate on Data Science related works.
 
