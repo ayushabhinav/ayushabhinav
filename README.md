@@ -35,6 +35,7 @@ Proven track record of delivering scalable data science products and AI models, 
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="80" height="40" /> </a> &nbsp
+    <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="pyspark" width="80" height="40" /> </a> &nbsp
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="80" height="40" /> </a> &nbsp
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="80" height="40" /> </a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" alt="scipy" width="80" height="40" /> </a>
