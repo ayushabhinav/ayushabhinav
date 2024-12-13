@@ -5,6 +5,22 @@
 <h7 aligh="center">
 Proven track record of delivering scalable data science products and AI models, from development to deployment, with the focus on marketing and customer engagement. 
 </h7>
+<hr>
+<p>
+🧑🏻‍💻 I currenlty work as a Machine Learning Engineer with a telecommunication industry. My expertise incldue building ML model, development of ML Platform (including automative feature selection, Hyperparameter tuning), Model monitoring, ML Operatoins etc. 
+    
+👯 I’m looking to collaborate on Data Science related works.
+</p>
+<h3 align="left">Certifications</h3>
+<p align="left">
+    <ul>
+    <li>Google Cloud Certified Professional Machine Learning Engineer</li>
+    <li>Google Cloud Certified Professional Data Engineer</li>
+    <li>Machine Learning from Stanford University</li>
+    <li>Six Sigma Green Belt</li>
+    <li>ITIL V3</li>
+    </ul>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
