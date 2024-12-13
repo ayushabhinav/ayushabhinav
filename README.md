@@ -37,7 +37,10 @@ Proven track record of delivering scalable data science products and AI models, 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="80" height="40" /> </a> &nbsp
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="80" height="40" /> </a> 
 </p>
-
+<p align="left">
+    <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud Platform" width="80" height="60" /> </a>  &nbsp
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Google Cloud Platform" width="100" height="60" /> </a> 
+</p>
 
 
 
