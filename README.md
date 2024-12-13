@@ -16,6 +16,9 @@ Proven track record of delivering scalable data science products and AI models, 
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="bash" width="40" height="40" /> </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="bash" width="40" height="40" /> </a>
+
+    
 </p>
 
 <!--
